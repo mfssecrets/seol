@@ -1,0 +1,13 @@
+{
+  "stage": "production",
+  "project_key": "",
+  "project_name": "",
+  "type": "client_identity",
+  "sign_key": "XB1152ItXWG0Hiq16pg9g8z6815",
+  "sign_pub_key": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQClHc/7DwWz7sQb2Alcl75q+72i\nX8bfEYLxGiPiFEBlrzsDDymchHCrogK4PpT3h68of48dPt19/2sGZ+VoA+ZhRFAa\nz5yKLLn1isX5UR7rKCtY2jPxRPTQlrBV45XMjjnYqR0d0e/lN6yNRsTelEUGaiNf\nB/9/kIrYph1yX0ehMwIDAQAB\n-----END PUBLIC KEY-----",
+  "publish_gateway": [
+    "https://publish-gateway.sc-api.saconsole.com/",
+    "https://publish-gateway.akamaized.net/",
+    "https://publish-gateway-cy.sc/"
+  ]
+}

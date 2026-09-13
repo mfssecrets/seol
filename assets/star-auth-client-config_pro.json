@@ -1,0 +1,12 @@
+{
+  "stage": "production",
+  "publish_gateway": [
+    "https://publish-gateway.sc-api.saconsole.com/",
+    "https://publish-gateway.akamaized.net/",
+    "https://publish-gateway-cy.sc-api.saconsole.com/"
+  ],
+  "web_auth_urls": [
+    "https://publish.saconsole.com/web/auth",
+    "https://publish-cy.saconsole.com/web/auth"
+  ]
+}

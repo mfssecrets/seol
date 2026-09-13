@@ -1,0 +1,9 @@
+{
+  "stage": "release",
+  "publish_gateway": [
+    "https://publish-gateway.sc-api-release.saconsole.com/"
+  ],
+  "web_auth_urls": [
+    "https://seaart-publish.sc-api-release.saconsole.com/web/auth"
+  ]
+}

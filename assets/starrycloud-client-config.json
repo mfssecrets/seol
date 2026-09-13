@@ -1,0 +1,23 @@
+{
+  "stage": "production",
+  "project_key": "308147b8d8ab3e0623f017084fa8e96e",
+  "project_name": "seasoul",
+  "created_time": "2025-08-18 04:14:16",
+  "type": "client_identity",
+  "agent_uri": "https://agent-server.sc-api.seaart.ai",
+  "sign_uri": "https://open-gateway.sc-api.seaart.ai",
+  "sign_key": "XY23gRNcBmh1H16oIhlpsmrgD",
+  "sign_pub_key": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBbIT8g93n8XXsfPk8zhlm2/M7\nvdWnNfDh/GyqEt81lNuQp9XywI8dj19amdrBCv3ryugzvGY5eqxIeDlTqngcV5j6\njgfVZuip4tl7dBE/c9KjedXtOWTx8JlORerS0q7Kc2Cb0voQFntNgbpRIiJRMeoI\nkBBka0WxZPc/ky58LQIDAQAB\n-----END PUBLIC KEY-----\n",
+  "aes_id": "XY13gRKVKA1Hw16oIhlprtA5D",
+  "aes_key": "6zegNdtw2ydgq0wt6LD46Pa4pyHju99",
+  "aes_secret": "a573c4f311826e266de1169daf84ad4366ee17e33ffa4a4ff158d24872565aeb",
+  "im_gateway": [
+    "https://im-gateway.sc-api.seaart.ai",
+    "https://starrycloud-aiart-im-gateway.akamaized.net"
+  ],
+  "open_gateway": [
+    "https://open-gateway.sc-api.seaart.ai",
+    "https://starrycloud-aiart-open-gateway.akamaized.net"
+  ],
+  "socket_urls": ["im-conn.sc-api.seaart.ai", "starrycloud-aiart-im-conn.akamaized.net"]
+}

@@ -1,0 +1,11 @@
+{
+  "stage": "release",
+  "project_key": "",
+  "project_name": "",
+  "type": "client_identity",
+  "sign_key": "XB1152It7Wv4Y2d16pg44mGeFra",
+  "sign_pub_key": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDKkT/noS94Uo2tVVuqSek3otBkwy6cuMTx7frxHht4lcAw1liHXzUq0AgDTZlWqu8Qcf/CaljRgaQ+6zFSIE5h7lMweZ/GGJzbA4DiKEJ1I8idouwBU1nyiaLQyIie9T/J6FrUoTl4frLzsypVr3enApx4YwpQMZP8sZEQ1xemQQIDAQAB\n-----END PUBLIC KEY-----",
+  "publish_gateway": [
+    "https://publish-gateway.sc-api-release.saconsole.com/"
+  ]
+}
